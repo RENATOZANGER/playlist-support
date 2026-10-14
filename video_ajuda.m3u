@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.0,
-https://raw.githubusercontent.com/RENATOZANGER/playlist-support/main/video.mp4
+https://raw.githubusercontent.com/RENATOZANGER/playlist-support/main/video_hls_compat.mp4
 #EXT-X-ENDLIST
